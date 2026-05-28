@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+models/*.caffemodel
+models/*.pkl
+*.egg-info/
+.venv/
+venv/
